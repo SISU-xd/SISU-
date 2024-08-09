@@ -1,0 +1,7 @@
+# Labcore功能展示
+
+## Labcore功能展示
+
+### 局内截图 <a href="#ju-nei-jie-tu" id="ju-nei-jie-tu"></a>
+
+![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252FduZVte88MFzRpuVpt3R6%252Fimage.png%3Falt%3Dmedia%26token%3Dfc3e1deb-6570-4346-99ce-3c03cc010ff9\&width=768\&dpr=4\&quality=100\&sign=17dc96af\&sv=1)![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252FyZ3fTWsPgaUnLwuii5aE%252Fimage.png%3Falt%3Dmedia%26token%3D6dad16fd-b8c9-44e1-836c-00b672173b64\&width=768\&dpr=4\&quality=100\&sign=2ce3a433\&sv=1)![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252F2YQlwvVkUdvG07yw8aNc%252Fimage.png%3Falt%3Dmedia%26token%3D0049db6f-b030-4401-876b-4a071f1c5f5f\&width=768\&dpr=4\&quality=100\&sign=a7dcc5fd\&sv=1)![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252FovY4ytjGw9cYHIv1YXCL%252Fimage.png%3Falt%3Dmedia%26token%3De660e452-6252-4ba9-9f28-5e14413cdbb6\&width=768\&dpr=4\&quality=100\&sign=f271dd90\&sv=1)
