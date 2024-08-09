@@ -94,6 +94,9 @@
 * [阿尔法丨Alpha 教程](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/README.md)
   * [阿尔法使用教程](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/a-er-fa-shi-yong-jiao-cheng.md)
   * [阿尔法错误提示](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/a-er-fa-cuo-wu-ti-shi.md)
+  * [阿尔法单人DC](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/a-er-fa-dan-ren-dc.md)
+  * [阿尔法单人末日](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/a-er-fa-dan-ren-mo-ri.md)
+  * [阿尔法刷钱](gta5-cai-dan-jiao-cheng/a-er-fa-gun-alpha-jiao-cheng/a-er-fa-shua-qian.md)
 * [天若使用教程](gta5-cai-dan-jiao-cheng/tian-ruo-shi-yong-jiao-cheng.md)
 
 ## RDR2菜单教程
