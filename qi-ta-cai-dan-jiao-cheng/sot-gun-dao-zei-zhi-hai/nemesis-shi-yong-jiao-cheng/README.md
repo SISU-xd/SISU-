@@ -54,7 +54,9 @@
 
 > **查看以下教程,注入成功无视此条.**
 
-[🛠️注入问题解决汇总](https://docs.hzz.im/o)
+{% content-ref url="../../../zhu-ru-wen-ti-jie-jue-hui-zong/" %}
+[zhu-ru-wen-ti-jie-jue-hui-zong](../../../zhu-ru-wen-ti-jie-jue-hui-zong/)
+{% endcontent-ref %}
 
 ### **使用** <a href="#shi-yong" id="shi-yong"></a>
 

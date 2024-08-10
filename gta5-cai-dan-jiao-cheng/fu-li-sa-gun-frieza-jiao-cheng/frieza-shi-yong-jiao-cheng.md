@@ -72,9 +72,15 @@
 
 [https://hzmod.lanzoue.com/iJ5pk21wy4mbhzmod.lanzoue.com](https://hzmod.lanzoue.com/iJ5pk21wy4mb)[![Logo](https://assets.woozooo.com/assets/favicon.ico)VC\_redist.x64.exe - 蓝奏云](https://hzmod.lanzoue.com/iPOfN21wxz9i)
 
-> **查看以下教程,注入成功无视此条.**
+> **查看以下教程,注入成功无视此条.**\
+> \
+>
 
-[🛠️注入问题解决汇总](https://docs.hzz.im/o)![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252FOwAhCOGn3Nc26J7gakJX%252Fimage.png%3Falt%3Dmedia%26token%3D478c3400-477f-4126-a01b-3061a670a657\&width=768\&dpr=4\&quality=100\&sign=49019c5c\&sv=1)
+{% content-ref url="../../zhu-ru-wen-ti-jie-jue-hui-zong/" %}
+[zhu-ru-wen-ti-jie-jue-hui-zong](../../zhu-ru-wen-ti-jie-jue-hui-zong/)
+{% endcontent-ref %}
+
+![](https://docs.hzz.im/\~gitbook/image?url=https%3A%2F%2F1382592200-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F7YXEHggLzaiKwZjRSOD4%252Fuploads%252FOwAhCOGn3Nc26J7gakJX%252Fimage.png%3Falt%3Dmedia%26token%3D478c3400-477f-4126-a01b-3061a670a657\&width=768\&dpr=4\&quality=100\&sign=49019c5c\&sv=1)
 
 ### 使用 <a href="#shi-yong" id="shi-yong"></a>
 
